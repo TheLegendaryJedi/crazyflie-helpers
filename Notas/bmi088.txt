@@ -1,0 +1,7 @@
+INT1, INT2, INT3, INT4
+Fires when new data available.
+
+CSB1, CSB2
+Choose what sensor data you want to read!
+
+
